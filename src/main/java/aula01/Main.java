@@ -17,6 +17,6 @@ Siga os passos:
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Olá, Java! Este é meu primeiro programa no Senac Rio.");
+        System.out.println("Olá, Mundo! Este é meu primeiro programa no Senac Rio.");
     }
 }
